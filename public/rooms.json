@@ -1,19 +1,14 @@
 {
   "rooms": [
     {
-      "slug": "main-stage",
-      "name": "Main stage",
-      "description": "Keynotes and headline talks"
+      "slug": "summit-testing",
+      "name": "Summit Testing",
+      "description": "Testing Channel for event"
     },
     {
-      "slug": "room-2",
-      "name": "Room 2",
-      "description": "Deep dives and technical sessions"
-    },
-    {
-      "slug": "workshops",
-      "name": "Workshops",
-      "description": "Hands-on sessions"
+      "slug": "community-team",
+      "name": "Community Team",
+      "description": "Internal Community team chat"
     }
   ]
 }
